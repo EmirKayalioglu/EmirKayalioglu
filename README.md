@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir Kayalıoğlu</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">I am an eager learner on the path to becoming a frontend developer.</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
